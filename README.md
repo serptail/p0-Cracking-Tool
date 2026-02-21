@@ -105,7 +105,6 @@ For issues or feature requests, open an issue on GitHub.
 <center>
 <div style="text-align: center;">
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/74c55d3e-6985-4a8a-afbd-46cc33e54e73" alt="octodance" width="110" height="110" style="margin-right: 100px;"/>
     <img src="https://github.com/user-attachments/assets/aeeda621-8287-4f89-bed3-8b89e09f85a5" alt="octodance" width="100" height="100"/>
   </p>
 </div>
